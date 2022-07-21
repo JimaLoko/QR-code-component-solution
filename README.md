@@ -6,7 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
+  - [Links](#links)
+  - [My process](#my-process)
   - [Built with](#built-with)
 
 ## Overview
@@ -15,6 +16,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](assets/design/mobile-design.jpg)
 
 ![](assets/design/desktop-design.jpg)
+
+### Links
+
+- Solution URL: [Stats preview card component solution](https://www.frontendmentor.io/solutions/qr-code-component-solution--HaRhQMKtL)
+- Live Site URL: [GitHub Pages](https://jimaloko.github.io/QR-code-component-solution/)
 
 ## My process
 
